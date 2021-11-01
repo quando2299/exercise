@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Ca1T3_NguyenHoang_17DH110963_Buoi4/1.0.0": {
+        "runtime": {
+          "Ca1T3_NguyenHoang_17DH110963_Buoi4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ca1T3_NguyenHoang_17DH110963_Buoi4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

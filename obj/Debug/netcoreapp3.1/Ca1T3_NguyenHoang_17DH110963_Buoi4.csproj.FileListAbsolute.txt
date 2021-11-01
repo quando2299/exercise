@@ -1,0 +1,13 @@
+/home/zino/dev/dotnet/Ca1T3_NguyenHoang_17DH110963_Buoi4/bin/Debug/netcoreapp3.1/Ca1T3_NguyenHoang_17DH110963_Buoi4
+/home/zino/dev/dotnet/Ca1T3_NguyenHoang_17DH110963_Buoi4/bin/Debug/netcoreapp3.1/Ca1T3_NguyenHoang_17DH110963_Buoi4.deps.json
+/home/zino/dev/dotnet/Ca1T3_NguyenHoang_17DH110963_Buoi4/bin/Debug/netcoreapp3.1/Ca1T3_NguyenHoang_17DH110963_Buoi4.runtimeconfig.json
+/home/zino/dev/dotnet/Ca1T3_NguyenHoang_17DH110963_Buoi4/bin/Debug/netcoreapp3.1/Ca1T3_NguyenHoang_17DH110963_Buoi4.runtimeconfig.dev.json
+/home/zino/dev/dotnet/Ca1T3_NguyenHoang_17DH110963_Buoi4/bin/Debug/netcoreapp3.1/Ca1T3_NguyenHoang_17DH110963_Buoi4.dll
+/home/zino/dev/dotnet/Ca1T3_NguyenHoang_17DH110963_Buoi4/bin/Debug/netcoreapp3.1/Ca1T3_NguyenHoang_17DH110963_Buoi4.pdb
+/home/zino/dev/dotnet/Ca1T3_NguyenHoang_17DH110963_Buoi4/obj/Debug/netcoreapp3.1/Ca1T3_NguyenHoang_17DH110963_Buoi4.csprojAssemblyReference.cache
+/home/zino/dev/dotnet/Ca1T3_NguyenHoang_17DH110963_Buoi4/obj/Debug/netcoreapp3.1/Ca1T3_NguyenHoang_17DH110963_Buoi4.AssemblyInfoInputs.cache
+/home/zino/dev/dotnet/Ca1T3_NguyenHoang_17DH110963_Buoi4/obj/Debug/netcoreapp3.1/Ca1T3_NguyenHoang_17DH110963_Buoi4.AssemblyInfo.cs
+/home/zino/dev/dotnet/Ca1T3_NguyenHoang_17DH110963_Buoi4/obj/Debug/netcoreapp3.1/Ca1T3_NguyenHoang_17DH110963_Buoi4.csproj.CoreCompileInputs.cache
+/home/zino/dev/dotnet/Ca1T3_NguyenHoang_17DH110963_Buoi4/obj/Debug/netcoreapp3.1/Ca1T3_NguyenHoang_17DH110963_Buoi4.dll
+/home/zino/dev/dotnet/Ca1T3_NguyenHoang_17DH110963_Buoi4/obj/Debug/netcoreapp3.1/Ca1T3_NguyenHoang_17DH110963_Buoi4.pdb
+/home/zino/dev/dotnet/Ca1T3_NguyenHoang_17DH110963_Buoi4/obj/Debug/netcoreapp3.1/Ca1T3_NguyenHoang_17DH110963_Buoi4.genruntimeconfig.cache
